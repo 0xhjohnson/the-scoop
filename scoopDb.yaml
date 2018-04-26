@@ -1,0 +1,18 @@
+users:
+  Hunter:
+    username: Hunter
+    articleIds:
+      - 1
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: main
+    url: 'test:4000'
+    username: Hunter
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+nextArticleId: 2
+comments: {}
+nextCommentId: 1
